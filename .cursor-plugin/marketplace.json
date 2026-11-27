@@ -1,0 +1,16 @@
+{
+  "name": "loopster-skills",
+  "owner": {
+    "name": "Loopster"
+  },
+  "metadata": {
+    "description": "Loopster skills for Cursor"
+  },
+  "plugins": [
+    {
+      "name": "loopster",
+      "source": "./loopster",
+      "description": "Run real go-to-market plays with Loopster from your AI agent: build lists, find contacts, route inbound, clean your CRM and launch outbound."
+    }
+  ]
+}

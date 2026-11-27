@@ -1,0 +1,16 @@
+{
+  "name": "loopster",
+  "displayName": "Loopster",
+  "version": "0.3.0",
+  "description": "Run real go-to-market plays with Loopster from your AI agent: build lists, find contacts, route inbound, clean your CRM and launch outbound.",
+  "author": {
+    "name": "Loopster"
+  },
+  "homepage": "https://loopster.ai",
+  "license": "MIT",
+  "keywords": ["gtm", "outbound", "enrichment", "crm", "lead-generation"],
+  "privacyPolicyUrl": "https://loopster.ai/privacy",
+  "termsOfServiceUrl": "https://loopster.ai/terms",
+  "documentationUrl": "https://help.loopster.ai",
+  "supportUrl": "https://help.loopster.ai"
+}

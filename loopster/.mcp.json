@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "loopster": {
+      "type": "http",
+      "url": "https://app.loopster.ai/api/mcp"
+    }
+  }
+}

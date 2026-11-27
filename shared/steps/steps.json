@@ -1,0 +1,18 @@
+{
+  "about": "Step texts shared by a workflow and the small skills that do one of its steps. The build copies each file, unchanged, into references/ of every skill listed. Edit the file here, never the copies.",
+  "routes.md": ["contact-finder", "work-email", "work-phone", "verify-email", "linkedin-profile", "refresh-contacts"],
+  "data-routes.md": [
+    "enrich-list",
+    "enrich-accounts",
+    "company-brief",
+    "tech-stack",
+    "headcount-growth",
+    "hiring-signals",
+    "scrape-website",
+    "record-audit",
+    "account-question",
+    "account-tiers"
+  ],
+  "icp-to-filters.md": ["prospect-list", "icp-to-filters", "market-size", "decision-makers", "account-tiers"],
+  "signal-recipes.md": ["signal-outbound", "hiring-signals", "tech-stack", "headcount-growth"]
+}

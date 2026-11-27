@@ -1,0 +1,19 @@
+{
+  "name": "loopster-skills",
+  "interface": {
+    "displayName": "Loopster"
+  },
+  "plugins": [
+    {
+      "name": "loopster",
+      "source": {
+        "source": "local",
+        "path": "./loopster"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}

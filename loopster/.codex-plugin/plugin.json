@@ -1,0 +1,15 @@
+{
+  "name": "loopster",
+  "version": "0.3.0",
+  "description": "Run real go-to-market plays with Loopster from your AI agent: build lists, find contacts, route inbound, clean your CRM and launch outbound.",
+  "author": {
+    "name": "Loopster"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Loopster",
+    "shortDescription": "GTM plays with Loopster"
+  },
+  "license": "MIT"
+}
